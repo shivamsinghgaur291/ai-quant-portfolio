@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+yfinance
+matplotlib
+pyyaml
+torch>=1.12
+tqdm
+pyportfolioopt
+cvxpy
+shap
+joblib
